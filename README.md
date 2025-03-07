@@ -1,1 +1,1 @@
-# Lab_NumPy_Pandas_Matplotlib_Homework
+#### Bai tap mon so hoa va quan tri thong tin so
